@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="9570" started-at="2020-05-04T13:34:34Z" finished-at="2020-05-04T13:34:44Z">
+  <suite name="Default suite" duration-ms="12749" started-at="2020-05-04T14:19:24Z" finished-at="2020-05-04T14:19:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="9570" started-at="2020-05-04T13:34:34Z" finished-at="2020-05-04T13:34:44Z">
+    <test name="Default test" duration-ms="12749" started-at="2020-05-04T14:19:24Z" finished-at="2020-05-04T14:19:37Z">
       <class name="com.bridgelabz.testBase.TC_LoginTest_01">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@598067a5]" name="setup" is-config="true" duration-ms="4957" started-at="2020-05-04T13:34:34Z" finished-at="2020-05-04T13:34:39Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@14bf9759]" name="setup" is-config="true" duration-ms="5770" started-at="2020-05-04T14:19:24Z" finished-at="2020-05-04T14:19:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@598067a5]" name="Logintest" duration-ms="4587" started-at="2020-05-04T13:34:39Z" finished-at="2020-05-04T13:34:44Z">
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@14bf9759]" name="Logintest" duration-ms="5955" started-at="2020-05-04T14:19:30Z" finished-at="2020-05-04T14:19:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logintest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@598067a5]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-05-04T13:34:44Z" finished-at="2020-05-04T13:34:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.bridgelabz.testBase.TC_LoginTest_01@14bf9759]" name="tearDown" is-config="true" duration-ms="980" started-at="2020-05-04T14:19:36Z" finished-at="2020-05-04T14:19:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
