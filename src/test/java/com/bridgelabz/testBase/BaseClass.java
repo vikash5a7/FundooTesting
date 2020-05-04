@@ -6,14 +6,19 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
+
+import com.bridgelabz.utilities.ReadConfig;
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
 public class BaseClass {
 
-	public String baseURL = "http://localhost:4200/login";
-	public String username = "vikashkumargupta5a7@gmail.com";
-	public String password = "vikash1";
+	ReadConfig readConfig=new ReadConfig();
+	
+	public String baseURL = readConfig.getApplicationURL();
+	public String username = readConfig.getEmail();
+	public String password = readConfig.getPassword();
 	public static WebDriver driver;
 	
 	public static Logger logger;
@@ -21,7 +26,7 @@ public class BaseClass {
 	@BeforeClass
 	public void setup() {
 		
-		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "//Drivers//chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", readConfig.getChromePath());
 		driver = new ChromeDriver();
 		logger = Logger.getLogger("Fundoo Notes");
 		PropertyConfigurator.configure("Log4j.properties");
