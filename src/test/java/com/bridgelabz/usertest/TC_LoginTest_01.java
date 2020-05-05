@@ -17,8 +17,7 @@ public class TC_LoginTest_01 extends BaseClass {
 		logger.info("Url is opened");
 		
 		LoginPage lp = new LoginPage(driver);
-		lp.serEmailAddress(username);
-		
+		lp.setEmailAddress(username);
 		logger.info("Entered email ");
 		lp.setPassword(password);
 		
@@ -27,6 +26,7 @@ public class TC_LoginTest_01 extends BaseClass {
 		Thread.sleep(2000);
 		if (driver.getTitle().equals("Fundoo Note Dashboard")) {
 			logger.info("Login test passed..");
+			lp.clickLogout();
 			Assert.assertTrue(true);
 		}
 		else { 

@@ -108,3 +108,102 @@
 2020-05-05 18:27:27,028 [main] INFO Fundoo Notes - Entered password 
 2020-05-05 18:27:29,820 [main] INFO Fundoo Notes - Login test failed..
 2020-05-05 18:27:29,827 [main] INFO Fundoo Notes - Title = FundooNotes
+2020-05-05 20:09:17,259 [main] INFO Fundoo Notes - Url is opened
+2020-05-05 20:09:18,500 [main] INFO Fundoo Notes - Entered email 
+2020-05-05 20:09:18,655 [main] INFO Fundoo Notes - Entered password 
+2020-05-05 20:09:20,883 [main] INFO Fundoo Notes - Login test passed..
+2020-05-05 20:15:40,937 [main] INFO Fundoo Notes - Url is opened
+2020-05-05 20:15:41,368 [main] INFO Fundoo Notes - Entered email 
+2020-05-05 20:15:41,522 [main] INFO Fundoo Notes - Entered password 
+2020-05-05 20:15:43,780 [main] INFO Fundoo Notes - Login test passed..
+2020-05-05 20:19:23,145 [main] INFO Fundoo Notes - Url is opened
+2020-05-05 20:19:23,561 [main] INFO Fundoo Notes - Entered email 
+2020-05-05 20:19:23,765 [main] INFO Fundoo Notes - Entered password 
+2020-05-05 20:19:25,976 [main] INFO Fundoo Notes - Login test passed..
+2020-05-05 20:20:44,256 [main] INFO Fundoo Notes - Url is opened
+2020-05-05 20:20:44,743 [main] INFO Fundoo Notes - Entered email 
+2020-05-05 20:20:44,930 [main] INFO Fundoo Notes - Entered password 
+2020-05-05 20:20:47,160 [main] INFO Fundoo Notes - Login test passed..
+2020-05-05 21:01:43,766 [main] INFO Fundoo Notes - Url is opened
+2020-05-05 21:01:44,431 [main] INFO Fundoo Notes - Entered email 
+2020-05-05 21:01:44,602 [main] INFO Fundoo Notes - Entered password 
+2020-05-05 21:01:46,977 [main] INFO Fundoo Notes - Login test passed..
+2020-05-05 21:14:30,968 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:14:31,804 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:14:31,826 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:14:31,834 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:14:31,840 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:13,241 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====admin
+2020-05-05 21:19:13,248 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:20,159 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:19:20,192 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====adm
+2020-05-05 21:19:20,193 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:26,056 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:19:26,060 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====admin
+2020-05-05 21:19:26,061 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:31,901 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:19:31,909 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====adm
+2020-05-05 21:19:31,909 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:37,740 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:19:37,760 [main] INFO Fundoo Notes - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-05 21:19:37,762 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:19:43,388 [main] INFO Fundoo Notes - ********* Login Test pass!! *************
+2020-05-05 21:19:44,694 [main] INFO Fundoo Notes - ********* Finished  TC_LoginDDT_002 *************
+2020-05-05 21:27:11,710 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====admin
+2020-05-05 21:27:11,715 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:27:20,810 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:27:20,845 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====adm
+2020-05-05 21:27:20,846 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:27:29,419 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:27:29,438 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====admin
+2020-05-05 21:27:29,439 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:27:37,906 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:27:37,927 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====adm
+2020-05-05 21:27:37,928 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:27:46,614 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:27:46,657 [main] INFO Fundoo Notes - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-05 21:27:46,657 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:27:52,381 [main] INFO Fundoo Notes - ********* Login Test pass!! *************
+2020-05-05 21:27:53,709 [main] INFO Fundoo Notes - ********* Finished  TC_LoginDDT_002 *************
+2020-05-05 21:27:53,716 [main] INFO Fundoo Notes - Email---vikashkumarpassword====vikash1
+2020-05-05 21:27:53,716 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:28:02,467 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:28:02,498 [main] INFO Fundoo Notes - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-05 21:28:02,498 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:28:11,694 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:28:11,721 [main] INFO Fundoo Notes - Email---vik@gmail.compassword====raju
+2020-05-05 21:28:11,722 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:28:20,405 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:28:20,419 [main] INFO Fundoo Notes - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-05 21:28:20,421 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:28:25,909 [main] INFO Fundoo Notes - ********* Login Test pass!! *************
+2020-05-05 21:28:27,231 [main] INFO Fundoo Notes - ********* Finished  TC_LoginDDT_002 *************
+2020-05-05 21:35:08,796 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====admin
+2020-05-05 21:35:08,801 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:17,225 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:35:17,280 [main] INFO Fundoo Notes - Email---admin@yourstore.com password====adm
+2020-05-05 21:35:17,280 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:24,828 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:35:24,842 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====admin
+2020-05-05 21:35:24,843 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:32,495 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:35:32,504 [main] INFO Fundoo Notes - Email---adm@yourstore.compassword====adm
+2020-05-05 21:35:32,504 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:40,274 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:35:40,317 [main] INFO Fundoo Notes - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-05 21:35:40,318 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:45,793 [main] INFO Fundoo Notes - ********* Login Test pass!! *************
+2020-05-05 21:35:47,119 [main] INFO Fundoo Notes - ********* Finished  TC_LoginDDT_002 *************
+2020-05-05 21:35:47,125 [main] INFO Fundoo Notes - Email---vikashkumarpassword====vikash1
+2020-05-05 21:35:47,126 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:35:54,724 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:35:54,749 [main] INFO Fundoo Notes - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-05 21:35:54,750 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:36:02,823 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:36:02,860 [main] INFO Fundoo Notes - Email---vik@gmail.compassword====raju
+2020-05-05 21:36:02,860 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:36:10,588 [main] INFO Fundoo Notes - ********* Login Test Failed.....!! *************
+2020-05-05 21:36:10,595 [main] INFO Fundoo Notes - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-05 21:36:10,596 [main] INFO Fundoo Notes - ********* starting TC_LoginDDT_002 *************
+2020-05-05 21:36:16,119 [main] INFO Fundoo Notes - ********* Login Test pass!! *************
+2020-05-05 21:36:17,440 [main] INFO Fundoo Notes - ********* Finished  TC_LoginDDT_002 *************

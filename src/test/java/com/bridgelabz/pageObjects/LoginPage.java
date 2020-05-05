@@ -33,7 +33,14 @@ public class LoginPage {
 	@FindBy(xpath="/html/body/app-root/app-login/div/mat-card/form/button[2]")
 	WebElement btnLogin;	
 	
-	public void serEmailAddress(String userEmail)
+	@FindBy(xpath="/html/body/app-root/app-fundoo-dashboard/app-navbar/html/body/div[1]/mat-toolbar/div[7]")
+	WebElement popUpBtn;
+	
+	@FindBy(name="logout")
+	WebElement logoutBtn;
+	
+	
+	public void setEmailAddress(String userEmail)
 	{
 		email.sendKeys(userEmail);
 	}
@@ -46,5 +53,17 @@ public class LoginPage {
 	{
 		btnLogin.click();
 	}
+	
+	public void clickOnMenu() {
+		popUpBtn.click();
+	}
+	
+	public void clickLogout() throws InterruptedException
+	{
+		clickOnMenu();
+		Thread.sleep(1000);
+		logoutBtn.click();
+	}
+	
 	
 }

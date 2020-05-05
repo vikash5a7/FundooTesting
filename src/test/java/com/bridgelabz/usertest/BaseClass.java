@@ -4,6 +4,7 @@
 package com.bridgelabz.usertest;
 import java.io.File;
 import java.io.IOException;
+import java.util.Properties;
 
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
@@ -23,6 +24,7 @@ import com.bridgelabz.utilities.ReadConfig;
 public class BaseClass {
 
 	ReadConfig readConfig=new ReadConfig();
+	public Properties configPropObj;
 	
 	public String baseURL = readConfig.getApplicationURL();
 	public String username = readConfig.getEmail();

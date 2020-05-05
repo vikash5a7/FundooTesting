@@ -7,13 +7,13 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.bridgelabz.usertest.TC_LoginTest_01">
+      <class name="com.bridgelabz.usertest.TC_LoginDDT_02">
         <methods>
-          <include name="Logintest"/>
           <include name="setup"/>
           <include name="tearDown"/>
+          <include name="loginTest" invocation-numbers="0 1 2 3 5 6 7"/>
         </methods>
-      </class> <!-- com.bridgelabz.usertest.TC_LoginTest_01 -->
+      </class> <!-- com.bridgelabz.usertest.TC_LoginDDT_02 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [FundooNoteTesting] -->
