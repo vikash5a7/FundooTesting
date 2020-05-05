@@ -30,15 +30,15 @@ public class TC_LoginDDT_02 extends BaseClass{
 		if(exp_title.equals(act_title))
 		{
 			count++;
-			logger.info("********* Login Test pass!! *************");
+			logger.info("********* Login Test pass" + count + "*************");
 			lp.clickLogout();
 			Assert.assertTrue(true);
 			}
 			else { 
 			count++;
-			captureScreen(driver,"LoginTest"+count);
+			captureScreen(driver,"Login"+user+pwd);
 			Thread.sleep(2000);
-			logger.info("********* Login Test Failed.....!! *************");
+			logger.info("********* Login Test Failed.....!!" + count + " *************");
 			Assert.assertTrue(false);	
 		}
 		logger.info("********* Finished  TC_LoginDDT_002 *************");
