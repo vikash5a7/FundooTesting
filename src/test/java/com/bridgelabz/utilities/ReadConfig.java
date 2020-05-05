@@ -46,11 +46,11 @@ public class ReadConfig {
 	return iepath;
 	}
 	
-//	public String getFirefoxPath()
-//	{
-//	String firefoxpath=pro.getProperty("firefoxpath");
-//	return firefoxpath;
-//	}
+	public String getFirefoxPath()
+	{
+	return pro.getProperty("firefoxpath");
+	
+	}
 }
 
 

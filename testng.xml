@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="Suite">
+<suite name="FundooNoteTesting">
   <test thread-count="5" name="Test">
+  <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="com.bridgelabz.testBase.BaseClass"/>
       <class name="com.bridgelabz.testBase.TC_LoginTest_01"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->
