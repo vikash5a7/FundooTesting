@@ -142,8 +142,11 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;FundooNoteTesting&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.bridgelabz.utilities.Reporting&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
-    &lt;parameter name=&quot;browser&quot; value=&quot;firefox&quot;/&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.bridgelabz.testBase.TC_LoginTest_01&quot;/&gt;
     &lt;/classes&gt;
@@ -189,7 +192,7 @@ data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'Logintest')
 data.setCell(0, 2, 'com.bridgelabz.testBase.TC_LoginTest_01')
-data.setCell(0, 3, 3706);
+data.setCell(0, 3, 3146);
 window.suiteTableData['FundooNoteTesting']= { tableData: data, tableDiv: 'times-div-FundooNoteTesting'}
 return data;
 }
@@ -222,16 +225,16 @@ return data;
             <div class="chronological-class">
               <div class="chronological-class-name">com.bridgelabz.testBase.TC_LoginTest_01</div> <!-- chronological-class-name -->
               <div class="configuration-class before">
-                <span class="method-name">setup(firefox)</span>
+                <span class="method-name">setup(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">Logintest</span>
-                <span class="method-start">14707 ms</span>
+                <span class="method-start">10407 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">18416 ms</span>
+                <span class="method-start">13591 ms</span>
               </div> <!-- configuration-class after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
