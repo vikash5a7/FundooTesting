@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.bridgelabz.testBase.TC_LoginTest_01">
+      <class name="com.bridgelabz.usertest.TC_LoginTest_01">
         <methods>
+          <include name="Logintest"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="Logintest"/>
         </methods>
-      </class> <!-- com.bridgelabz.testBase.TC_LoginTest_01 -->
+      </class> <!-- com.bridgelabz.usertest.TC_LoginTest_01 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

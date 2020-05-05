@@ -1,7 +1,15 @@
 /**
  * 
  */
-package com.bridgelabz.testBase;
+package com.bridgelabz.usertest;
+import java.io.File;
+import java.io.IOException;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -11,11 +19,6 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
 import com.bridgelabz.utilities.ReadConfig;
-
-import java.util.concurrent.TimeUnit;
-
-import org.apache.log4j.Logger;
-import org.apache.log4j.PropertyConfigurator;
 
 public class BaseClass {
 
@@ -49,10 +52,15 @@ public class BaseClass {
 			System.setProperty("webdriver.ie.driver",readConfig.getIEPath());
 			driver = new InternetExplorerDriver();
 		}
-		
-		driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		driver.get(baseURL);
-	
+		 driver.manage().window().maximize();
+	}
+	public void captureScreen(WebDriver driver, String tname) throws IOException {
+		TakesScreenshot ts = (TakesScreenshot) driver;
+		File source = ts.getScreenshotAs(OutputType.FILE);
+		File target = new File(System.getProperty("user.dir") + "\\Screenshots\\" + tname + ".png");
+		FileUtils.copyFile(source, target);
+		System.out.println("Screenshot taken");
 	}
 	
 	@AfterClass

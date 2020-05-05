@@ -1,5 +1,7 @@
 
-package com.bridgelabz.testBase;
+package com.bridgelabz.usertest;
+import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -10,7 +12,7 @@ import com.bridgelabz.pageObjects.LoginPage;
 public class TC_LoginTest_01 extends BaseClass {
 
 	@Test
-	public void Logintest() {
+	public void Logintest() throws InterruptedException, IOException {
 		driver.get(baseURL);
 		logger.info("Url is opened");
 		
@@ -22,12 +24,15 @@ public class TC_LoginTest_01 extends BaseClass {
 		
 		logger.info("Entered password ");
 		lp.clickSubmit();
-		if (driver.getTitle().equals("FundooNotes")) {
+		Thread.sleep(2000);
+		if (driver.getTitle().equals("Fundoo Note Dashboard")) {
 			logger.info("Login test passed..");
 			Assert.assertTrue(true);
 		}
 		else { 
+			captureScreen(driver,"LoginTest");
 			logger.info("Login test failed..");
+			logger.info("Title = "+driver.getTitle());
 			Assert.assertTrue(false);
 		}
 	}

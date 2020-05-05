@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [FundooNoteTesting]">
+<suite name="Failed suite [FundooNoteTesting]">
+  <listeners>
+    <listener class-name="com.bridgelabz.utilities.Reporting"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="ie"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.bridgelabz.testBase.TC_LoginTest_01">
+      <class name="com.bridgelabz.usertest.TC_LoginTest_01">
         <methods>
+          <include name="Logintest"/>
           <include name="setup"/>
           <include name="tearDown"/>
-          <include name="Logintest"/>
         </methods>
-      </class> <!-- com.bridgelabz.testBase.TC_LoginTest_01 -->
+      </class> <!-- com.bridgelabz.usertest.TC_LoginTest_01 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [FundooNoteTesting] -->

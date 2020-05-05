@@ -3,7 +3,6 @@ package com.bridgelabz.utilities;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
@@ -11,7 +10,6 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class XLUtils {
-	
 	public static FileInputStream fi;
 	public static FileOutputStream fo;
 	public static XSSFWorkbook wb;
@@ -44,7 +42,6 @@ public class XLUtils {
 		fi.close();
 		return cellcount;
 	}
-	
 	
 	public static String getCellData(String xlfile,String xlsheet,int rownum,int colnum) throws IOException
 	{
@@ -82,7 +79,5 @@ public class XLUtils {
 		wb.close();
 		fi.close();
 		fo.close();
-	}
-	
-	
+	}	
 }
