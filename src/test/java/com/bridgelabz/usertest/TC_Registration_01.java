@@ -126,6 +126,7 @@ public class TC_Registration_01 extends BaseClass {
 			boolean res = driver.getPageSource().contains("registration successfull");
 			if (res == true) {
 				Assert.assertTrue(true);
+				logger.info("User Detailes of succefully registration.."+fname +" "+ lname + " "+ email );
 				logger.info("test case passed....");
 			} else {
 				logger.info("test case failed....");
