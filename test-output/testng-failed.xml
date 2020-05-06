@@ -14,6 +14,16 @@
           <include name="loginTest" invocation-numbers="0 1 2 3 5 6 7"/>
         </methods>
       </class> <!-- com.bridgelabz.usertest.TC_LoginDDT_02 -->
+      <class name="com.bridgelabz.usertest.TC_Registration_01">
+        <methods>
+          <include name="setup"/>
+          <include name="testWithAllInValidInput"/>
+          <include name="tearDown"/>
+          <include name="testWithAllInValidPassWord"/>
+          <include name="testWithAlreadyPresentUser"/>
+          <include name="testWithInvalidfnameLname"/>
+        </methods>
+      </class> <!-- com.bridgelabz.usertest.TC_Registration_01 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [FundooNoteTesting] -->

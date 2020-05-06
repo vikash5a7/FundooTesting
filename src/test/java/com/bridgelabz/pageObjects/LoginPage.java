@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.bridgelabz.pageObjects;
 
 import org.openqa.selenium.WebDriver;
@@ -53,7 +50,7 @@ public class LoginPage {
 	public void clickOnMenu() {
 		popUpBtn.click();
 	}
-	
+
 	public void clickLogout() throws InterruptedException
 	{
 		clickOnMenu();

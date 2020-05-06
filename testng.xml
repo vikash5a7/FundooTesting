@@ -7,7 +7,10 @@
 	</listeners>
    	 <classes>
      	<!--  <class name="com.bridgelabz.usertest.TC_LoginTest_01"/> -->
-     	 <class name="com.bridgelabz.usertest.TC_LoginDDT_02"/>
+     	<class name="com.bridgelabz.usertest.TC_LoginDDT_02"/>
+     	<class name="com.bridgelabz.usertest.TC_Registration_01"/>
+     	<!-- <class name="com.bridgelabz.usertest.TC_Registration_02"/> --> 
+     	
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

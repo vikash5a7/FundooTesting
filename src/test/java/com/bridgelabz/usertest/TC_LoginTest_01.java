@@ -1,4 +1,3 @@
-
 package com.bridgelabz.usertest;
 import java.io.IOException;
 
@@ -6,8 +5,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.bridgelabz.pageObjects.LoginPage;
-
-
 
 public class TC_LoginTest_01 extends BaseClass {
 
@@ -20,7 +17,6 @@ public class TC_LoginTest_01 extends BaseClass {
 		lp.setEmailAddress(username);
 		logger.info("Entered email ");
 		lp.setPassword(password);
-		
 		logger.info("Entered password ");
 		lp.clickSubmit();
 		Thread.sleep(2000);
@@ -32,7 +28,6 @@ public class TC_LoginTest_01 extends BaseClass {
 		else { 
 			captureScreen(driver,"LoginTest");
 			logger.info("Login test failed..");
-			logger.info("Title = "+driver.getTitle());
 			Assert.assertTrue(false);
 		}
 	}
