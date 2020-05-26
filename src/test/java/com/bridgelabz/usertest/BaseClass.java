@@ -19,6 +19,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+import com.bridgelabz.pageObjects.SignUpPage;
 import com.bridgelabz.utilities.ReadConfig;
 
 public class BaseClass {
@@ -27,15 +28,20 @@ public class BaseClass {
 	public Properties configPropObj;
 	
 	public String baseURL = readConfig.getApplicationURL();
-	public String username = readConfig.getEmail();
-	public String password = readConfig.getPassword();
+	public String username;
+	public String password;
 	public static WebDriver driver;
 	
+	// Sing up page object
+	 public SignUpPage signUpPage = new SignUpPage(driver);	
 	public static Logger logger;
 	
 	@Parameters("browser")
 	@BeforeClass
-	public void setup(String br) {		
+	public void setup(String br) {
+		username = readConfig.getEmail();
+		password = readConfig.getPassword();
+		System.out.println("Email is " + username + " password is " +  password);
 		
 		logger = Logger.getLogger("Fundoo Notes");
 		PropertyConfigurator.configure("Log4j.properties");
@@ -54,8 +60,7 @@ public class BaseClass {
 			System.setProperty("webdriver.ie.driver",readConfig.getIEPath());
 			driver = new InternetExplorerDriver();
 		}
-		driver.get(baseURL);
-		 driver.manage().window().maximize();
+		driver.manage().window().maximize();
 	}
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
 		TakesScreenshot ts = (TakesScreenshot) driver;

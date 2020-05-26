@@ -12,7 +12,6 @@ public class TC_LoginTest_01 extends BaseClass {
 	public void Logintest() throws InterruptedException, IOException {
 		driver.get(baseURL);
 		logger.info("Url is opened");
-		
 		LoginPage lp = new LoginPage(driver);
 		lp.setEmailAddress(username);
 		logger.info("Entered email ");
@@ -22,7 +21,7 @@ public class TC_LoginTest_01 extends BaseClass {
 		Thread.sleep(2000);
 		if (driver.getTitle().equals("Fundoo Note Dashboard")) {
 			logger.info("Login test passed..");
-			lp.clickLogout();
+	
 			Assert.assertTrue(true);
 		}
 		else { 

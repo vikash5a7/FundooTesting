@@ -14,11 +14,11 @@ public class TC_LoginDDT_02 extends BaseClass{
 	@Test(dataProvider="LoginData")
 	public void loginTest(String user,String pwd) throws InterruptedException, IOException
 	{
+		LoginPage lp = new LoginPage(driver);
 		logger.info("Email---" + user + "password====" + pwd);
 		logger.info("********* starting TC_LoginDDT_002 *************");
 		int count=0;
 		driver.get(baseURL);
-		LoginPage lp=new LoginPage(driver);
 		lp.setEmailAddress(user);
 		lp.setPassword(pwd);
 		lp.clickSubmit();
@@ -45,8 +45,6 @@ public class TC_LoginDDT_02 extends BaseClass{
 	}
 	
 	
-	
-	
 	@DataProvider(name="LoginData")
 	public String [][] getData() throws IOException
 	{
@@ -64,8 +62,7 @@ public class TC_LoginDDT_02 extends BaseClass{
 				logindata[i-1][j]= XLUtils.getCellData(path, "Sheet1",i, j);  //1,0
 			}
 		}
-	return logindata;
-				
+	return logindata;			
 	}
 	
 }

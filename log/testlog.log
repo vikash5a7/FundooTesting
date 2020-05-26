@@ -584,3 +584,283 @@
 2020-05-07 02:49:29,606 - Fundoo Notes -INFO - checking registration button status
 2020-05-07 02:49:31,658 - Fundoo Notes -INFO - test case failed....
 2020-05-07 02:49:31,957 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed1607
+2020-05-07 11:28:13,996 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:28:20,862 - Fundoo Notes -INFO - Entered email 
+2020-05-07 11:28:21,270 - Fundoo Notes -INFO - Entered password 
+2020-05-07 11:28:24,658 - Fundoo Notes -INFO - Login test failed..
+2020-05-07 11:32:57,267 - Fundoo Notes -INFO - Email---vikashkumar@gmailpassword====avikashdmin
+2020-05-07 11:32:57,274 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:07,764 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:33:07,803 - Fundoo Notes -INFO - Email---password====adm
+2020-05-07 11:33:07,805 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:16,396 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:33:16,406 - Fundoo Notes -INFO - Email---vikash@gmail.compassword====vikash
+2020-05-07 11:33:16,407 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:25,363 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:33:25,382 - Fundoo Notes -INFO - Email---adm@yourstore.compassword====adm
+2020-05-07 11:33:25,382 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:35,121 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:33:35,139 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-07 11:33:35,139 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:42,392 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-07 11:33:43,738 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-07 11:33:43,752 - Fundoo Notes -INFO - Email---vikashkumarpassword====vikash1
+2020-05-07 11:33:43,753 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:33:52,637 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:33:52,650 - Fundoo Notes -INFO - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-07 11:33:52,651 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:34:02,575 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:34:02,604 - Fundoo Notes -INFO - Email---vik@gmail.compassword====raju
+2020-05-07 11:34:02,605 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:34:11,821 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 11:34:11,830 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-07 11:34:11,830 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 11:34:18,412 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-07 11:34:19,739 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-07 11:38:44,658 - Fundoo Notes -INFO - **** Registration with all the Invalid input ************
+2020-05-07 11:38:47,514 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:38:48,015 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 11:38:48,480 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 11:38:48,851 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 11:38:49,558 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 11:38:49,740 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 11:38:50,039 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 11:38:50,385 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 11:38:50,385 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 11:38:52,430 - Fundoo Notes -INFO - test case failed....
+2020-05-07 11:38:52,826 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed5146
+2020-05-07 11:38:52,895 - Fundoo Notes -INFO - **** Registration Checking with not match password and confimation password ************
+2020-05-07 11:38:56,936 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:38:57,206 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 11:38:57,541 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 11:38:57,818 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 11:38:58,223 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 11:38:58,431 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 11:38:58,676 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 11:38:59,020 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 11:38:59,021 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 11:39:01,058 - Fundoo Notes -INFO - test case failed....
+2020-05-07 11:39:01,398 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed4335
+2020-05-07 11:39:01,402 - Fundoo Notes -INFO - **** Registration Checking with all the valid input ************
+2020-05-07 11:39:04,430 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:39:04,684 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 11:39:05,005 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 11:39:05,301 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 11:39:05,806 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 11:39:06,026 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 11:39:06,286 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 11:39:06,536 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 11:39:06,536 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 11:39:11,844 - Fundoo Notes -INFO - User Detailes of succefully registration..zrxNp zrxNp tmgbqWLD@gmail.com
+2020-05-07 11:39:11,844 - Fundoo Notes -INFO - test case passed....
+2020-05-07 11:39:14,668 - Fundoo Notes -INFO - **** End Registration with all the valid input ************
+2020-05-07 11:39:14,675 - Fundoo Notes -INFO - **** Registration Checking with already present user ************
+2020-05-07 11:39:17,058 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:39:17,441 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 11:39:17,696 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 11:39:17,910 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 11:39:18,390 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 11:39:18,580 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 11:39:18,763 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 11:39:18,961 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 11:39:18,961 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 11:39:24,459 - Fundoo Notes -INFO - test case failed....
+2020-05-07 11:39:24,780 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed5074
+2020-05-07 11:39:24,794 - Fundoo Notes -INFO - **** Registration with all the Invalid first name and last name ************
+2020-05-07 11:39:27,862 - Fundoo Notes -INFO - Url is opened
+2020-05-07 11:39:28,416 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 11:39:28,799 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 11:39:28,953 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 11:39:29,404 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 11:39:29,570 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 11:39:29,767 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 11:39:29,988 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 11:39:29,989 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 11:39:32,011 - Fundoo Notes -INFO - test case failed....
+2020-05-07 11:39:32,451 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed9199
+2020-05-07 16:25:35,007 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:25:36,125 - Fundoo Notes -INFO - Entered email 
+2020-05-07 16:25:36,354 - Fundoo Notes -INFO - Entered password 
+2020-05-07 16:25:38,765 - Fundoo Notes -INFO - Login test passed..
+2020-05-07 16:28:07,330 - Fundoo Notes -INFO - Email---vikashkumar@gmailpassword====avikashdmin
+2020-05-07 16:28:07,335 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:28:16,780 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:28:16,839 - Fundoo Notes -INFO - Email---password====adm
+2020-05-07 16:28:16,840 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:28:25,803 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:28:25,813 - Fundoo Notes -INFO - Email---vikash@gmail.compassword====vikash
+2020-05-07 16:28:25,813 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:28:35,406 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:28:35,417 - Fundoo Notes -INFO - Email---adm@yourstore.compassword====adm
+2020-05-07 16:28:35,418 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:28:45,182 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:28:45,195 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-07 16:28:45,196 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:28:53,401 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-07 16:28:54,770 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-07 16:28:54,774 - Fundoo Notes -INFO - Email---vikashkumarpassword====vikash1
+2020-05-07 16:28:54,775 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:29:03,729 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:29:03,740 - Fundoo Notes -INFO - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-07 16:29:03,740 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:29:12,145 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:29:12,155 - Fundoo Notes -INFO - Email---vik@gmail.compassword====raju
+2020-05-07 16:29:12,156 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:29:21,119 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-07 16:29:21,125 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-07 16:29:21,126 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-07 16:29:27,623 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-07 16:29:29,082 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-07 16:33:07,597 - Fundoo Notes -INFO - **** Registration with all the Invalid input ************
+2020-05-07 16:33:10,925 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:33:11,306 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 16:33:11,551 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 16:33:11,763 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 16:33:12,221 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 16:33:12,409 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 16:33:12,676 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 16:33:12,928 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 16:33:12,928 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 16:33:14,969 - Fundoo Notes -INFO - test case failed....
+2020-05-07 16:33:15,314 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed5860
+2020-05-07 16:33:15,352 - Fundoo Notes -INFO - **** Registration Checking with not match password and confimation password ************
+2020-05-07 16:33:19,405 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:33:19,680 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 16:33:20,168 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 16:33:20,523 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 16:33:21,142 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 16:33:21,386 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 16:33:21,853 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 16:33:22,190 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 16:33:22,191 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 16:33:24,217 - Fundoo Notes -INFO - test case failed....
+2020-05-07 16:33:24,548 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed3089
+2020-05-07 16:33:24,554 - Fundoo Notes -INFO - **** Registration Checking with all the valid input ************
+2020-05-07 16:33:27,691 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:33:27,942 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 16:33:28,302 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 16:33:28,533 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 16:33:28,880 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 16:33:29,109 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 16:33:29,343 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 16:33:29,557 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 16:33:29,557 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 16:33:34,885 - Fundoo Notes -INFO - User Detailes of succefully registration..UGADC UGADC rHknQply@gmail.com
+2020-05-07 16:33:34,885 - Fundoo Notes -INFO - test case passed....
+2020-05-07 16:33:37,355 - Fundoo Notes -INFO - **** End Registration with all the valid input ************
+2020-05-07 16:33:37,359 - Fundoo Notes -INFO - **** Registration Checking with already present user ************
+2020-05-07 16:33:39,745 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:33:40,138 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 16:33:40,401 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 16:33:40,684 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 16:33:41,112 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 16:33:41,326 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 16:33:41,481 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 16:33:41,730 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 16:33:41,730 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 16:33:47,012 - Fundoo Notes -INFO - test case failed....
+2020-05-07 16:33:47,306 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed6313
+2020-05-07 16:33:47,319 - Fundoo Notes -INFO - **** Registration with all the Invalid first name and last name ************
+2020-05-07 16:33:50,185 - Fundoo Notes -INFO - Url is opened
+2020-05-07 16:33:50,635 - Fundoo Notes -INFO - Redirecting to the registration page..
+2020-05-07 16:33:50,934 - Fundoo Notes -INFO - Entered user first name
+2020-05-07 16:33:51,300 - Fundoo Notes -INFO - Entered user last name
+2020-05-07 16:33:51,907 - Fundoo Notes -INFO - Entered user email address
+2020-05-07 16:33:52,081 - Fundoo Notes -INFO - Entered user last password
+2020-05-07 16:33:52,292 - Fundoo Notes -INFO - Entered user confirmation password
+2020-05-07 16:33:52,552 - Fundoo Notes -INFO - Entered user phone number
+2020-05-07 16:33:52,553 - Fundoo Notes -INFO - checking registration button status
+2020-05-07 16:33:54,593 - Fundoo Notes -INFO - test case failed....
+2020-05-07 16:33:54,907 - Fundoo Notes -INFO - Capture Screen sort name isRegistraionFailed4553
+2020-05-12 13:19:49,966 - Fundoo Notes -INFO - Url is opened
+2020-05-12 13:19:50,758 - Fundoo Notes -INFO - Entered email 
+2020-05-12 13:19:51,191 - Fundoo Notes -INFO - Entered password 
+2020-05-12 13:19:54,516 - Fundoo Notes -INFO - Login test failed..
+2020-05-12 13:22:28,473 - Fundoo Notes -INFO - Email---vikashkumar@gmailpassword====avikashdmin
+2020-05-12 13:22:28,479 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:22:37,686 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:22:37,740 - Fundoo Notes -INFO - Email---password====adm
+2020-05-12 13:22:37,740 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:22:46,137 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:22:46,147 - Fundoo Notes -INFO - Email---vikash@gmail.compassword====vikash
+2020-05-12 13:22:46,149 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:22:55,006 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:22:55,016 - Fundoo Notes -INFO - Email---adm@yourstore.compassword====adm
+2020-05-12 13:22:55,017 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:03,752 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:23:03,768 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-12 13:23:03,768 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:10,223 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-12 13:23:11,712 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-12 13:23:11,719 - Fundoo Notes -INFO - Email---vikashkumarpassword====vikash1
+2020-05-12 13:23:11,720 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:19,846 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:23:19,876 - Fundoo Notes -INFO - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-12 13:23:19,877 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:29,204 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:23:29,258 - Fundoo Notes -INFO - Email---vik@gmail.compassword====raju
+2020-05-12 13:23:29,258 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:37,782 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-12 13:23:37,790 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-12 13:23:37,790 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-12 13:23:44,302 - Fundoo Notes -INFO - ********* Login Test pass1*************
+2020-05-12 13:23:45,783 - Fundoo Notes -INFO - ********* Finished  TC_LoginDDT_002 *************
+2020-05-14 16:55:41,457 - Fundoo Notes -INFO - Url is opened
+2020-05-14 16:57:46,016 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:07:13,650 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:08:16,152 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:11:43,168 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:14:16,777 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:19:03,259 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:20:11,221 - Fundoo Notes -INFO - Email---vikashkumar@gmailpassword====avikashdmin
+2020-05-14 17:20:11,225 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:14,233 - Fundoo Notes -INFO - Email---password====adm
+2020-05-14 17:20:14,233 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:16,459 - Fundoo Notes -INFO - Email---vikash@gmail.compassword====vikash
+2020-05-14 17:20:16,460 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:18,123 - Fundoo Notes -INFO - Email---adm@yourstore.compassword====adm
+2020-05-14 17:20:18,124 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:20,098 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-14 17:20:20,099 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:22,147 - Fundoo Notes -INFO - Email---vikashkumarpassword====vikash1
+2020-05-14 17:20:22,148 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:24,073 - Fundoo Notes -INFO - Email---vikashkumar@gmail.compassword====vikash1
+2020-05-14 17:20:24,073 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:25,743 - Fundoo Notes -INFO - Email---vik@gmail.compassword====raju
+2020-05-14 17:20:25,743 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:20:27,745 - Fundoo Notes -INFO - Email---vikashkumargupta5a7@gmail.compassword====vikash1
+2020-05-14 17:20:27,746 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:23:50,714 - Fundoo Notes -INFO - Email---vikashkumar@gmailpassword====avikashdmin
+2020-05-14 17:23:50,719 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:24:00,563 - Fundoo Notes -INFO - ********* Login Test Failed.....!!1 *************
+2020-05-14 17:24:00,595 - Fundoo Notes -INFO - Email---password====adm
+2020-05-14 17:24:00,596 - Fundoo Notes -INFO - ********* starting TC_LoginDDT_002 *************
+2020-05-14 17:24:48,873 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:24:57,544 - Fundoo Notes -INFO - Login test passed..
+2020-05-14 17:26:38,181 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:26:46,880 - Fundoo Notes -INFO - Login test passed..
+2020-05-14 17:26:49,066 - Fundoo Notes -INFO -  Note Box is opnend
+2020-05-14 17:26:49,292 - Fundoo Notes -INFO - Title is set
+2020-05-14 17:26:49,553 - Fundoo Notes -INFO - Descrption is set
+2020-05-14 17:26:54,764 - Fundoo Notes -INFO - Note is created sucessFully
+2020-05-14 17:26:54,766 - Fundoo Notes -INFO - Note Created test is passed 
+2020-05-14 17:30:53,105 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:30:56,774 - Fundoo Notes -INFO - Login test passed..
+2020-05-14 17:30:58,918 - Fundoo Notes -INFO -  Note Box is opnend
+2020-05-14 17:30:59,125 - Fundoo Notes -INFO - Title is set
+2020-05-14 17:31:01,340 - Fundoo Notes -INFO - Descrption is set
+2020-05-14 17:31:01,444 - Fundoo Notes -INFO - clicked on note create 
+2020-05-14 17:32:28,769 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:32:32,480 - Fundoo Notes -INFO - Login test passed..
+2020-05-14 17:32:34,641 - Fundoo Notes -INFO -  Note Box is opnend
+2020-05-14 17:32:34,866 - Fundoo Notes -INFO - Title is set
+2020-05-14 17:32:37,098 - Fundoo Notes -INFO - Descrption is set
+2020-05-14 17:32:37,589 - Fundoo Notes -INFO - clicked on note create 
+2020-05-14 17:35:35,129 - Fundoo Notes -INFO - Url is opened
+2020-05-14 17:35:38,913 - Fundoo Notes -INFO - Login test passed..
+2020-05-14 17:35:41,094 - Fundoo Notes -INFO -  Note Box is opnend
+2020-05-14 17:35:41,319 - Fundoo Notes -INFO - Title is set
+2020-05-14 17:35:41,676 - Fundoo Notes -INFO - Descrption is set
+2020-05-14 17:35:41,923 - Fundoo Notes -INFO - clicked on note create 
+2020-05-14 17:35:47,153 - Fundoo Notes -INFO - Note is created sucessFully
+2020-05-14 17:35:47,156 - Fundoo Notes -INFO - Note Created test is passed 

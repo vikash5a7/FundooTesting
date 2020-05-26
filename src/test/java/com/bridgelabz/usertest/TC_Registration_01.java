@@ -5,7 +5,6 @@ import java.io.IOException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.bridgelabz.pageObjects.SignUpPage;
 import com.bridgelabz.utilities.Util;
 
 public class TC_Registration_01 extends BaseClass {
@@ -95,7 +94,7 @@ public class TC_Registration_01 extends BaseClass {
 		String captureScreenSortName = "RegistraionFailed" + Util.randomeNum(4);
 		driver.get(baseURL);
 		logger.info("Url is opened");
-		SignUpPage signUpPage = new SignUpPage(driver);
+
 		signUpPage.registrationBtn();
 		logger.info("Redirecting to the registration page..");
 
